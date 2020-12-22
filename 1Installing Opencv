@@ -1,0 +1,8 @@
+1.Predecessor: anconda, jupyternotebook
+2.Open the anconda prompt:
+3.Create envs:'conda create -n yourenvsname python=3.x'
+4.View conda environment: 'conda-envs list'
+5.Enter conda environment:'conda activate yourenvsname'  Droup out:'conda deactivate yourenvsname'
+6.Download related Lirary:1.opencv-python:'pip install opencv-python'
+                          2.opencv-contrib-python:'pip install opencv-contrib-python' opencv expand library
+7.Open jupyter notebook: 'jupyter notebook'
